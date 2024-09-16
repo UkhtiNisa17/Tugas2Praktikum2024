@@ -54,5 +54,5 @@ untuk lebih singkatnya berikut adalah Alur Passing Data:
 - Data ditampilkan di halaman TampilData menggunakan widget Text.
 - 
 ## Screenshot
-![Lampiran Form](form.png)
-![Lampiran Hasil](hasil.png)
+![Lampiran Form](hasilform.png)
+![Lampiran Hasil](hasiltampil.png)
